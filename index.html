@@ -7,40 +7,71 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            max-width: 600px;
+            max-width: 800px;
             margin: 20px auto;
             padding: 0 20px;
         }
         h1 {
             color: #333;
         }
-        ul {
-            list-style-type: none;
-            padding: 0;
+        .card {
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
-        li {
-            margin-bottom: 10px;
+        .card h2 {
+            margin-top: 0;
+            color: #333;
         }
-        a {
+        .card p {
+            margin-bottom: 0;
+            color: #666;
+        }
+        .card a {
             color: #007bff;
             text-decoration: none;
+            font-weight: bold;
         }
-        a:hover {
+        .card a:hover {
             text-decoration: underline;
         }
     </style>
 </head>
 <body>
     <h1>Guia rápido de Pix </h1>
-    <p> Nesta seção, vamos te ensinar os primeiros passos para utilizar o Pix. Você aprenderá:</p>
-    <ul>
-        <li><a href="pix-tutorial/pix-key">Configurar sua chave Pix</a></li>
-        <li><a href="#fazer-transferencia">Fazer uma transferência por Pix</a></li>
-        <li><a href="#pagamentos">Fazer pagamentos via Pix QR Code ou Copia e Cola</a></li>
-        <li><a href="#configurar-limite">Configurar o limite de transferência por Pix</a></li>
-        <li><a href="#alterar-chave">Alterar a chave Pix</a></li>
-    </ul>
+
+    <div class="card">
+        <h2 id="configurar-chave">Configurar sua chave Pix</h2>
+        <p>Aqui você pode descrever como configurar a sua chave Pix, seja CPF, e-mail, telefone ou chave aleatória.</p>
+        <p><a href="#configurar-chave">Saiba mais</a></p>
+    </div>
+
+    <div class="card">
+        <h2 id="fazer-transferencia">2. Fazer uma transferência por Pix</h2>
+        <p>Instruções e passos para realizar uma transferência utilizando o Pix.</p>
+        <p><a href="#fazer-transferencia">Saiba mais</a></p>
+    </div>
+
+    <div class="card">
+        <h2 id="pagamentos">3. Fazer pagamentos via Pix QR Code ou Copia e Cola</h2>
+        <p>Explicação de como fazer pagamentos utilizando QR Code do Pix ou copiando e colando a chave do recebedor.</p>
+        <p><a href="#pagamentos">Saiba mais</a></p>
+    </div>
+
+    <div class="card">
+        <h2 id="configurar-limite">4. Configurar o limite de transferência por Pix</h2>
+        <p>Como ajustar o limite máximo de valor para transferências por Pix.</p>
+        <p><a href="#configurar-limite">Saiba mais</a></p>
+    </div>
+
+    <div class="card">
+        <h2 id="alterar-chave">5. Alterar a chave Pix</h2>
+        <p>Passos para alterar a chave Pix, caso necessário.</p>
+        <p><a href="#alterar-chave">Saiba mais</a></p>
+    </div>
 
 </body>
 </html>
-
