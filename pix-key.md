@@ -1,6 +1,6 @@
 # Configurando sua chave PIX
 
-Para configurar uma chave PIX na sua conta Itaú, siga este passo a passo:
+Para configurar uma chave Pix na sua conta Itaú, siga este passo a passo:
 
 1. Na tela principal do aplicativo, acesse o menu **Pix**;
 2. Clique em **Minhas Chaves**;
