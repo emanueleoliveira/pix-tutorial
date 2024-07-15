@@ -8,5 +8,5 @@ Para configurar uma chave PIX na sua conta Itaú, siga este passo a passo:
 4. Confirme a chave para salvar o cadastro;
 5. Pronto! Chave criada.
 
-!!! [NOTE]
+[NOTE]
 É novo no PIX? [Confira nosso manual de boas práticas](https://www.itau.com.br/assets/dam/publisher/01_itau/14_pix/boas_praticas/boas_praticas_pix.pdf) e tire suas dúvidas.
