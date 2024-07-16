@@ -1,7 +1,5 @@
 # Fazer uma transferência por Pix
 
-Para fazer uma transferência por Pix:
-
 1. Na tela principal do aplicativo, acesse o menu **Pix**;
 2. Clique em **Transferir**;
 3. Digite o valor da transferência;
