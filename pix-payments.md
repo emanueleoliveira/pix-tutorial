@@ -8,7 +8,7 @@
 4. Confirme os dados do pagamento;
 5. Se estiver tudo correto, informe sua senha para confirmar.
 
-> [TIP]
+> [!TIP]
 > Clientes que têm celular Samsung podem usar a câmera do aparelho para ler o QR Code. Um alerta Pix será exibido para continuar o pagamento com o app Itaú.
 
 ## Copia e Cola
