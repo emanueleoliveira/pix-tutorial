@@ -1,5 +1,8 @@
 # Configurando limites Pix
 
+Essa função oferece mais segurança e controle para suas transações. 
+Para configurar, siga os passos:
+
 1. Na tela principal do aplicativo, acesse o menu **Pix**;
 2. Clique em **Meus Limites**;
 3. Clique em **Ajustar limite Pix**;
