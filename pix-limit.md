@@ -1,4 +1,4 @@
-# Configurando o limite do Pix
+# Configurando limites Pix
 
 1. Na tela principal do aplicativo, acesse o menu **Pix**;
 2. Clique em **Meus Limites**;
