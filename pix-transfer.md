@@ -11,4 +11,4 @@ Para fazer uma transferência por Pix:
 7. Se estiver tudo certo, informe sua senha para confirmar a transferência.
 
 Em segundos, o comprovante estará disponível na sua tela. 
-Se desejar, você pode compartilhá-lo clicando no ícone ![compartilhar-arquivo](https://github.com/user-attachments/assets/5fbd27a8-e8b2-4eb9-b06a-faabce7125d0)
+Se desejar, você pode compartilhá-lo clicando no ícone ![compartilhar-arquivo](https://github.com/user-attachments/assets/2d2706c3-5c65-4204-9393-3046b231fbf1)
